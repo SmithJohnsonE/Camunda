@@ -8,10 +8,11 @@ The java class can be found on (src\main\java\com\camunda\demoEmail\demoEmail --
 
 <b>Its imperative inside the java class to specify your account and your password.</b>
 
-<b>String myAccountEmail="someone@gmail.com";
-			String password="";</b>
+<b>For example: String myAccountEmail="someone@gmail.com";
+			String password="123456";</b>
 
 
-A similar Java project can be found on folder java project. 
 
+A similar <b>Java project</b> can be found on folder java project. 
+By setting a valid account email and its password and running the main class (you need to specify the email address of the recipient), an email is sent.
 
