@@ -9,7 +9,7 @@ The java class can be found on (src\main\java\com\camunda\demoEmail\demoEmail --
 <b>Its imperative inside the java class to specify your account and your password.</b>
 
 <b>For example: String myAccountEmail="someone@gmail.com";
-			String password="123456";</b>
+			String password="123456";</b><br/>
 
 
 
