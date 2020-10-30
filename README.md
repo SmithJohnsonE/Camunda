@@ -2,7 +2,7 @@
 Camunda BPM: Send Email with a service task implemented by a java class
 
 
-<b>Configurations:</b>
+<b>Configurations:</b> <br/>
 In the src folder, there is available the BPMN model(src\main\resources --> diagram.bpmn).
 The java class can be found on (src\main\java\com\camunda\demoEmail\demoEmail --> SendEmail.java).
 
