@@ -13,7 +13,7 @@ The java class can be found on (src\main\java\com\camunda\demoEmail\demoEmail --
 
 
 
-<b>Java project:</b>
+<br/><b>Java project:</b><br/>
 A similar <b>Java project</b> can be found on folder java project. 
 By setting a valid account email and its password and running the main class (you need to specify the email address of the recipient), an email is sent.
 
