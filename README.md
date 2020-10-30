@@ -12,6 +12,9 @@ The java class can be found on (src\main\java\com\camunda\demoEmail\demoEmail --
 			String password="123456";</b><br/>
 
 
+The mail.jar file must be inserted on the maven project. In your maven project, create a folder "lib" and paste the .jar file.
+Then refresh the project on eclipse and right click on the jar file, selecting build path. This will install the library javax.mail.
+
 
 <br/><b>Java project:</b><br/>
 A similar <b>Java project</b> can be found on folder java project. 
